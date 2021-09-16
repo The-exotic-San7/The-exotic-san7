@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there lads 😃
+This is Sayantan! 🤙
 
-<!--
-**The-exotic-San7/The-exotic-san7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 CS Undergrad | Still on Grind :slightly_smiling_face: | ML Enthusiast | Full stack Developer | Open source contributor
 
-Here are some ideas to get you started:
+- 🌱 I’m currently engaged in  full stack Web development and Machine Learning Fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+-  Ask me about the life of a programmer :slightly_smiling_face:
+  
+-  Looking for Project partners
+  
+- ⚡ Fun fact:? There is no such kind of fun in my life. lmao 😂
+
