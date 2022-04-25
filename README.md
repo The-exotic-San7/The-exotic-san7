@@ -1,9 +1,9 @@
 # Hi there lads 😃
 This is Sayantan! 🤙
 
-- 🔭 CS Undergrad | Still on Grind :slightly_smiling_face: | ML Enthusiast | Full stack Developer | Open source contributor
+- 🔭 CS Undergrad | Still on Grind :slightly_smiling_face: | Node Enthusiast | Full stack Developer | Open source contributor
 
-- 🌱 I’m currently engaged in  full stack Web development and Machine Learning Fundamentals.
+- 🌱 I’m currently engaged in  Full stack Web development and Data Structures & Algorithms.
 
 
 -  Ask me about the life of a programmer :slightly_smiling_face:
