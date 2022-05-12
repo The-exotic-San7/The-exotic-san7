@@ -1,7 +1,7 @@
 # Hi there lads 😃
 This is Sayantan! 🤙
 
-- 🔭 CS Undergrad | Still on Grind :slightly_smiling_face: | Node Enthusiast | Full stack Developer | Open source contributor
+- 🔭 CS Undergrad | Still on Grind :slightly_smiling_face: | Node.JS Enthusiast | Full stack Developer | Open source contributor
 
 - 🌱 I’m currently engaged in  Full stack Web development. Trying to focusing  on gfg :) Dealing  extential crisis in Data structures and Algorithms 😂
 
