@@ -1,4 +1,4 @@
-# Hi there lads 😃
+# Hey There😃
 This is Sayantan! 🤙
 
 - 🔭 CS Undergrad | Still on Grind :slightly_smiling_face: | Node.JS Enthusiast | Full stack Developer | Open source contributor
