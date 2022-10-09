@@ -31,5 +31,5 @@ This is Sayantan! 🤙
 
 - CROSS PLATFORM -> React Native | Expo 
 
-- DEV-OPS -> Git | Kubernetes 
+- DEV-OPS -> Git | GitHub | Docker
 
